@@ -1,16 +1,22 @@
-# muvver
+# Muvver
 
 Muvver App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Muvver app para criar uma viagem dentro de uma aplicação
+que visa o uso de mobilidade compartilhada.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Essa aplicação possui diversas
+funcionalidades, porém neste teste o foco é entregar somente uma delas, que é o cadastro
+de uma viagem feita por um usuário.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(https://youtu.be/O2HJA1M-OmU "Video App")   
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="Home" src="screenshots/home.jpg">  Home |  <img width="1604" alt="details" src="screenshots/delivery-details.jpg"> Details|<img width="1604" alt="Map" src="screenshots/map.jpg"> Map|
+|<img width="1604" alt="product-size" src="screenshots/product-size.jpg"> Product Size |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="screenshots/product-weight.jpg"> Product Weight|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="screenshots/payment.jpg"> Price|
+<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="screenshots/finish.jpg"> Finish
+

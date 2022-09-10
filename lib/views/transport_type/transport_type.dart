@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:muvver/models/delivery.dart';
 import 'package:muvver/views/route/route.dart';
 
-import '../../controllers/controller_delivery.dart';
+import '../../controllers/home/controller_delivery.dart';
 
 class TransportType extends StatefulWidget {
   const TransportType({Key? key}) : super(key: key);
