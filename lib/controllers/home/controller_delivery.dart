@@ -11,13 +11,13 @@ class ControllerDelivery extends ControllerMVC {
 
 
   Delivery create() {
-    String _currentUser = "NameUser";
-    return Delivery(user: _currentUser);
+    String currentUser = "NameUser";
+    return Delivery(user: currentUser);
   }
 
   Future<Delivery> setTransportType(Delivery delivery,
       String transportType) async {
-    await Future.delayed(Duration(milliseconds: 100));
+    await Future.delayed(const Duration(milliseconds: 100));
     delivery.transport_type = transportType;
     return delivery;
   }
